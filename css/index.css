@@ -1,0 +1,22 @@
+html, body {
+  margin: 0px;
+  height: 100%;
+}
+
+.control-panel {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50px;
+  height: 50px;
+  background-color: rgba(0,0,0,0.1);
+  transition: .2s background-color ease-in-out;
+  border-radius: 0px 0px 0px 8px;
+}
+
+.control-panel:hover {
+  background-color: rgba(50,50,50,1);
+  transition: .2s background-color ease-in-out;
+  cursor: pointer;
+}

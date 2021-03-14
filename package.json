@@ -1,0 +1,10 @@
+{
+  "name": "webxr-expo",
+  "version": "1.0.0",
+  "description": "WeXR Multi-User Exhibition Environment",
+  "main": "index.js",
+  "repository": "git@github.com:PButcher/webxr-expo.git",
+  "author": "pbutcher <pbutcher93@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
