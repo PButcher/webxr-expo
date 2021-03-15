@@ -6,5 +6,11 @@
   "repository": "git@github.com:PButcher/webxr-expo.git",
   "author": "pbutcher <pbutcher93@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "start": "node ./server/index.js"
+  },
+  "dependencies": {
+    "networked-aframe": "^0.7.1"
+  }
 }

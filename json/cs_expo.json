@@ -1,0 +1,570 @@
+[
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/WatsonA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/adam-watson/",
+    "supervisor": "Llyr Ap-Cenydd",
+    "studentName": "Adam Watson",
+    "projectTitle": "Generating Realistic Virtual Environments using Procedural Generation",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/JonesA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/alex-jones/",
+    "supervisor": "Bill Teahan",
+    "studentName": "Alex Jones",
+    "projectTitle": "Economic Simulation in Video Games",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/MaloneA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/alex-malone/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Alex Malone",
+    "projectTitle": "Distributed DMX Network over Internet of Things",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/WardA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/alexander-ward/",
+    "supervisor": "Jonathan Roberts",
+    "studentName": "Alex Ward",
+    "projectTitle": "Generating Logos from Questions",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/AstonA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/andrew-aston/",
+    "supervisor": "Llyr Ap-Cenydd",
+    "studentName": "Andrew Aston",
+    "projectTitle": "The Effect of Procedural Generation on a Game’s Replay Values",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/BespalovasA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/armandas-bespalovas/",
+    "supervisor": "Franck Vidal",
+    "studentName": "Armandas Bespalovas",
+    "projectTitle": "Real-Time Face Mask Recognition in Low Resolution Surveillance Videos",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/OwenA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/aron-owen/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Aron Owen",
+    "projectTitle": "Student-Centric Dashboard for Attendance Analytics",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/OwenA.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/aron-owen/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Aron Owen",
+    "projectTitle": "Student-Centric Dashboard for Attendance Analytics",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/RylesB.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/ben-ryles/",
+    "supervisor": "Bill Teahan",
+    "studentName": "Ben Ryles",
+    "projectTitle": "A Tool for Businesses for Analysing Online Reviews",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/AtkinsC.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/callum-atkins/",
+    "supervisor": "Lucy Kuncheva",
+    "studentName": "Callum Atkins",
+    "projectTitle": "Colour-Emotion Analysis: Application to Computer Games",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/FawcettC.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/callum-fawcett/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Callum Fawcett",
+    "projectTitle": "Towards Camera-Based Detection of Visualisations using Deep Learning",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/BennettC.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/chris-bennett/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Chris Bennett",
+    "projectTitle": "Using Machine Learning to Identify Good 3D Rigging in Models",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/BeechC.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/christopher-beech/",
+    "supervisor": "Saad Mansoor",
+    "studentName": "Christopher Beech",
+    "projectTitle": "Track and Trace System for Bangor University",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/KerrC.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/conor-kerr/",
+    "supervisor": "Ik Soo Lim",
+    "studentName": "Conor Kerr",
+    "projectTitle": "Cognitive Modelling: Automatic and Controlled Processing",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/FarmerD.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/dan-farmer/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Dan Farmer",
+    "projectTitle": "Modelling the Spread of a Virus",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/StoakesD.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/dan-stoakes/",
+    "supervisor": "Bill Teahan",
+    "studentName": "Dan Stoakes",
+    "projectTitle": "Information Extraction from Swedish Text",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/SajeevD.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/dibin-sajeev/",
+    "supervisor": "Saad Mansoor",
+    "studentName": "Dibbin Sajeev",
+    "projectTitle": "An Online Pharmacy Management System",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/LintonE.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/edward-linton/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Edward Linton",
+    "projectTitle": "Situational Awareness of Security Incidents for Network Administrators",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/SaltE.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/edward-salt/",
+    "supervisor": "Lucy Kuncheva",
+    "studentName": "Edward Salt",
+    "projectTitle": "Animal Identification Through Image Analysis",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/LiF.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/fan-li/",
+    "supervisor": "Ik Soo Lim",
+    "studentName": "Fan Li",
+    "projectTitle": "Trust Game",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/CrabtreeG.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/georgia-crabtree/",
+    "supervisor": "Saad Mansoor",
+    "studentName": "Georgia Crabtree",
+    "projectTitle": "Development of a Track and Trace System for Bangor University",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/FarrellPritchardG.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/gethin-farrell-pritchard/",
+    "supervisor": "Lucy Kuncheva",
+    "studentName": "Gethin Farrell-Pritchard",
+    "projectTitle": "An Analysis on how Colour Effects Emotion in Computer Games",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/JonesG.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/gwion-jones/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Gwion Jones",
+    "projectTitle": "Mutual Authentication",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/DaleG.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/gwyndaf-dale/",
+    "supervisor": "Ik Soo Lim",
+    "studentName": "Gwyndaf Dale",
+    "projectTitle": "Using Game Theory to Model Evolutionary Changes in a Group of Islands",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/AlzubaidyH.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/haider-al-zubaidy/",
+    "supervisor": "Jonathan Roberts",
+    "studentName": "Haider Al-Zubaidy",
+    "projectTitle": "Teaching Maths using Snakes and Ladders",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/RobertsH.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/hari-roberts/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Hari Roberts",
+    "projectTitle": "Investigation into Physical Methods to Bypass Fingerprint Sensors on Mobile Devices",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/MistretuI.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/ioana-mistretu/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Ioana Mistretu",
+    "projectTitle": "Exploring the Usage of APIs in Video Game Companion Applications",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/PashaldiKozeljI.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/ioanna-pashaldi-kozelj/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Ioanna Pashaldi Kozelj",
+    "projectTitle": "Non-Shared Key Encryption Locker for Sharing Files Securely",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/DavisonJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/jack-davison/",
+    "supervisor": "Saad Mansoor",
+    "studentName": "Jack Davison",
+    "projectTitle": "Enhancing the Online Univeristy Collaborate Experience During the COVID-19 Pandemic",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/McInnesJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/jack-mcinnes/",
+    "supervisor": "Llyr Ap Cenydd",
+    "studentName": "Jack McInnes",
+    "projectTitle": "Handbox VR: Exploring Hand and Finger-Based Interaction with a Virtual Environment",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/KingsleyJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/jacob-kingsley/",
+    "supervisor": "Saad Mansoor",
+    "studentName": "Jacob Kingsley",
+    "projectTitle": "Development of a Distributed System for an Estate Agent",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/TattershallJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/jake-tattershall/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Jake Tattersgall",
+    "projectTitle": "Android Monitoring Suite for Parents",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/SelwoodJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/james-selwood/",
+    "supervisor": "Llyr Ap Cenydd",
+    "studentName": "James Selwood",
+    "projectTitle": "Exploring Stealth Game Mechanics in a 2D Environment",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/PointonJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/jamie-pointon/",
+    "supervisor": "Franck Vidal",
+    "studentName": "Jamie Pointon",
+    "projectTitle": "Validation of the gVirtualXRay Library Using CT Reconstruction",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/ZhangJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/jiawei-zhang/",
+    "supervisor": "Ik Soo Lim",
+    "studentName": "Jiawei Zhang",
+    "projectTitle": "Small World Networking",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/GeorgeJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/joseph-george/",
+    "supervisor": "Jonathan Roberts",
+    "studentName": "Joseph George",
+    "projectTitle": "Social Media Usage Analysis",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/CrewJ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/joshua-crew/",
+    "supervisor": "Ik Soo Lim",
+    "studentName": "Joshua Crew",
+    "projectTitle": "Scale Free Network",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/BurnellC.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/kian-burnell/",
+    "supervisor": "Bill Teahan",
+    "studentName": "Kian Burnell",
+    "projectTitle": "A Python Tool for Investigating Agent-Oriented Embodied Human-Like Maze Solve in 3D Virtual Environments",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/HughesK.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/kieran-hughes/",
+    "supervisor": "Llyr Ap Cenydd",
+    "studentName": "Kieran Hughes",
+    "projectTitle": "Immersive Learning Environment in Virtual Reality",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/DixonL.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/lewis-dixon/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Lewis Dixon",
+    "projectTitle": "Developing a CPU Simulator for Education",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/MaguireL.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/lewis-maguire/",
+    "supervisor": "Llyr Ap Cenydd",
+    "studentName": "Lewis Maguire",
+    "projectTitle": "Visual Embellishment Behind Game Design, and the Impact it has on the Player",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/ScoonL.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/linda-scoon/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Linda Scoon",
+    "projectTitle": "Household Recycle Sorting Bin System Design",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/TaggartM.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/maria-taggart/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Maria Taggart",
+    "projectTitle": "A Smartphone-Based Applciation for Sports Societies and Clubs",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/JonesM.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/matthew-jones/",
+    "supervisor": "Franck Vidal",
+    "studentName": "Matthew Jones",
+    "projectTitle": "Automatic Segmentation of the Diaphragm within CT Scans using Python",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/PhillipsM.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/maximillian-phillips/",
+    "supervisor": "Lucy Kuncheva",
+    "studentName": "Maximillian Phillips",
+    "projectTitle": "Using Convolutional Neural Networks to Identify Skins in Video Games",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/OpawoleM.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/mercy-opawole/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Mercy Opawole",
+    "projectTitle": "Smart Plant Watering Device using Embedded Systems",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/SenkiwM.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/michael-senkiw/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Michael Senkiw",
+    "projectTitle": "Using Image Processing to Enhance Gameplay",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/PriceHughesM.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/morgan-price-hughes/",
+    "supervisor": "Ik Soo Lim",
+    "studentName": "Morgan Price Hughes",
+    "projectTitle": "Modifying Arguments in the Dictator Game and Ultimatum Game",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/LevrierN.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/nathan-levrier/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Nathan Levrier",
+    "projectTitle": "Augmented Reality Data Visualisation",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/PenfoldO.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/oliver-penfold/",
+    "supervisor": "Franck Vidal",
+    "studentName": "Oliver Penfold",
+    "projectTitle": "Medical AR for Education",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/DimitropoulosP.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/panagiotis-dimitropoulos/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Panagiotis Dimitropoulos",
+    "projectTitle": "Urban Analytics for Tourism in the UK",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/ScinteieR.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/radu-scinteie/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Radu Scinteie",
+    "projectTitle": "A LoRaWAN GPS Asset Tracking System",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/PurcarasR.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/razvan-darius-purcaras/",
+    "supervisor": "Franck Vidal",
+    "studentName": "Razvan-Darius Purcaras",
+    "projectTitle": "Background Detection and Adding Visual Effects",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/EllisOwenR.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/rhun-ellis-owen/",
+    "supervisor": "Cameron Gray",
+    "studentName": "Rhun Ellis-Owen",
+    "projectTitle": "Information Leakage Through Social Media",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/WilliamsR.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/rhys-williams/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Rhys Williams",
+    "projectTitle": "Web-Based Immersive Reality: Making Data Consumable for the General Public",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/LivingstonR.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/robert-livingston/",
+    "supervisor": "Panos Ritsos",
+    "studentName": "Robert Livingston",
+    "projectTitle": "How Can We Take Emotions from Text Inputs with the Help of HCI and Colour",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/BurgessR.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/ruth-burgess/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Ruth Burgess",
+    "projectTitle": "Virtual Choas",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/HennesseyS.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/sam-hennessey/",
+    "supervisor": "Lucy Kuncheva",
+    "studentName": "Sam Hennessey",
+    "projectTitle": "Reinforcement Learning",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/PeelS.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/sam-peel/",
+    "supervisor": "Bill Teahan",
+    "studentName": "Sam Peel",
+    "projectTitle": "An Easy-to-Use Data Science Toolkit",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/TindlingS.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/samuel-tindling/",
+    "supervisor": "Llyr Ap Cenydd",
+    "studentName": "Samuel Tindling",
+    "projectTitle": "Techniques for Immersion in Virtual Reality Games",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/WilliamsS.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/sapphire-williams/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Sapphire Williams",
+    "projectTitle": "Processing Images Through a Robotic Arm",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/HeffernanS.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/shannon-heffernan/",
+    "supervisor": "Bill Teahan",
+    "studentName": "Shannon Heffernan",
+    "projectTitle": "A Tool for Translating form English to Irish",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/JonesS.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/sion-jones/",
+    "supervisor": "Llyr Ap Cenydd",
+    "studentName": "Sion Jones",
+    "projectTitle": "Developing a Visual Aided Early Intervention on iPad for Children with Autism Spectrum Disorder",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/SinghS.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/sudhir-singh/",
+    "supervisor": "Lucy Kuncheva",
+    "studentName": "Sudhir Singh",
+    "projectTitle": "Feature Transformation in Pattern Recognition",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/BarthelmesT.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/tobias-barthelmes/",
+    "supervisor": "Franck Vidal",
+    "studentName": "Tobias Barthelmes",
+    "projectTitle": "Where’s Wally? The Dissertation Project",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/BurgoineT.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/tom-burgoine/",
+    "supervisor": "Dave Perkins",
+    "studentName": "Thomas Burgoine",
+    "projectTitle": "Low Fidelity Game Canvas",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/KentMyersT.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/tom-kent-myers",
+    "supervisor": "Lucy Kuncheva",
+    "studentName": "Tom Kent Myers",
+    "projectTitle": "Using Players’ Emotional Input to Influence the Difficulty of a Game",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/HughesW.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/will-hughes/",
+    "supervisor": "Saad Mansoor",
+    "studentName": "Will Hughes",
+    "projectTitle": "Information Security – Gap Analysis",
+    "horz": false
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/JonesW.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/will-jones/",
+    "supervisor": "Jonathan Roberts",
+    "studentName": "Will Jones",
+    "projectTitle": "My Game: Block-o",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/GoodwinW.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/william-goodwin/",
+    "supervisor": "Jonathan Roberts",
+    "studentName": "William Goodwin",
+    "projectTitle": "To Create a Life Saving Device using the Internet of Things",
+    "horz": true
+  },
+  {
+    "posterImageURL": "https://csee.bangor.ac.uk/expo/wp-content/uploads/2019/03/ChenZ.jpg",
+    "posterWebpageURL": "https://csee.bangor.ac.uk/expo/ziming-chen/",
+    "supervisor": "Saad Mansoor",
+    "studentName": "Ziming Chen",
+    "projectTitle": "A Visual Approach to Modelling Firewall Configurations",
+    "horz": true
+  }
+]
