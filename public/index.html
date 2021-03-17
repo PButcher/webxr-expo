@@ -9,11 +9,12 @@
     <script src="js/lib/networked-aframe.min.js"></script>
     <script src="js/components/dynamic-room.js"></script>
     <script src="js/components/aframe-randomizer-components.min.js"></script>
+    <script src="js/lib/joystick.min.js"></script>
     <script defer src="js/index.js"></script>
   </head>
   <body>
-    <div id="control-panel" class="control-panel"></div>
-    <a-scene dynamic-room>
+    <!-- <div id="control-panel" class="control-panel"></div> -->
+    <a-scene dynamic-room joystick>
 
       <a-assets>
         <img src="img/dark-floor.jpg" id="tx-floor"/>
@@ -66,7 +67,7 @@
 
       <!-- Camera -->
       <a-entity
-        id="player"
+        id="camera"
         networked="template:#avatar-template;attachTemplateToLocal:false;"
         camera
         look-controls
@@ -74,6 +75,11 @@
         position="0 1.6 5"
         rotation="45 45 45"
       >
+
+        <!-- Mobile Navigation -->
+        <!-- Left -->
+        <!-- <a-triangle id="nav-left" class="interactive" scale="0.25 0.25 0.25" rotation="0 0 90" position="-0.25 -0.5 -1" color="white"></a-triangle>
+        <a-triangle id="nav-right" class="interactive" scale="0.25 0.25 0.25" rotation="0 0 -90" position="0.25 -0.5 -1" color="white"></a-triangle> -->
 
         <!-- Camera Gaze-Cursor -->
         <a-entity 

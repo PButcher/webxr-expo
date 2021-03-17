@@ -3,7 +3,23 @@ html, body {
   height: 100%;
 }
 
-.control-panel {
+body::after {
+  font-family: sans-serif;
+  position: fixed;
+  top: 10px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  opacity: 0.5s;
+  text-align: center;
+  color: #ccc;
+  content: attr(data-content);
+  white-space: pre;
+  animation: fade 15s linear 1;
+  animation-fill-mode: forwards;
+}
+
+/* .control-panel {
   z-index: 1;
   position: absolute;
   top: 0;
@@ -19,4 +35,14 @@ html, body {
   background-color: rgba(50,50,50,1);
   transition: .2s background-color ease-in-out;
   cursor: pointer;
+} */
+
+@keyframes fade {
+  0% {}
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
 }

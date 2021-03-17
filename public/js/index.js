@@ -2,13 +2,83 @@ const CS_EXPO_URL =
   "https://csee.bangor.ac.uk/expo/wp-content/uploads/cspostersvr.json";
 const EE_EXPO_URL =
   "https://csee.bangor.ac.uk/expo/wp-content/uploads/eepostervr.json";
-// const EXAMPLE = "example/example.json";
 
-// TODO:
-// - Create landing webpage
-// - Load set of posters based on query string or something from socketio on connect
+const room = AFRAME.utils.getUrlParameter('room');
 
-fetch(CS_EXPO_URL).then((res) =>
+console.log(room);
+
+const eeSupervisors = [
+  "Jianming Tang", // 1
+  "James Wang", // 2
+  "Iestyn Pierce", // 3
+  "Chris Hancock", // 1
+  "Noel Bristow", // 1
+  "Maziar Nehzad", // 1
+  "Yanhua Hong", // 1
+  "Daniel Roberts", // 2
+  "Mohammed Mabrook", // 3
+  "Xianfeng Chen", // 2
+  "Ilan Davies", // 1
+  "Cristiano Palego", // 2
+  "Ray Davies", // 2
+  "Roger Giddings", // 2
+  "Liyang Yue" // 1
+];
+
+const csSupervisors = [
+  "Llyr Ap-Cenydd", // 8
+  "Bill Teahan", // 6
+  "Dave Perkins", // 8
+  "Jonathan Roberts", // 5
+  "Franck Vidal", // 6
+  "Cameron Gray", // 8
+  "Lucy Kuncheva", // 7
+  "Panos Ritsos", // 9
+  "Saad Mansoor", // 7
+  "Ik Soo Lim" // 6
+];
+
+const eeRooms = {
+  eea: ["Jianming Tang", "James Wang", "Iestyn Pierce", "Chris Hancock", "Noel Bristow", "Maziar Nehzad", "Yanhua Hong"],
+  eeb: ["Daniel Roberts", "Mohammed Mabrook", "Xianfeng Chen", "Ilan Davies", "Cristiano Palego"],
+  eec: ["Ray Davies", "Roger Giddings", "Liyang Yue"]
+}
+
+// const csRooms = [
+//   "Llyr Ap-Cenydd", // 8
+//   "Bill Teahan", // 6
+//   "Dave Perkins", // 8
+//   "Jonathan Roberts", // 5
+//   "Franck Vidal", // 6
+//   "Cameron Gray", // 8
+//   "Lucy Kuncheva", // 7
+//   "Panos Ritsos", // 9
+//   "Saad Mansoor", // 7
+//   "Ik Soo Lim" // 6
+// ];
+
+let expoJSONURL = null;
+let degree = null;
+let method = null;
+
+if(csSupervisors.includes(room)) {
+  expoJSONURL = CS_EXPO_URL;
+  degree = "cs";
+  method = "super";
+} else if(eeRooms.hasOwnProperty(room)) {
+  expoJSONURL = EE_EXPO_URL;
+  degree = "ee";
+  method = "group"
+} else if(eeSupervisors.includes(room)) {
+  expoJSONURL = EE_EXPO_URL;
+  degree = "ee";
+  method = "super"
+} else {
+  console.log("No valid supervisor");
+  // No valid supervisor
+}
+
+if(room !== "" && expoJSONURL !== null) fetch(expoJSONURL).then((res) =>
   res.json().then((exhibits) => {
     const scene = document.querySelector("a-scene");
     const exhibitsEl = document.createElement("a-entity");
@@ -110,11 +180,21 @@ fetch(CS_EXPO_URL).then((res) =>
       spots: true,
     };
 
-    exhibits.filter(el => el.supervisor === "Panos Ritsos").forEach((exhibit, i) => {
-      exhibitsEl.appendChild(
-        createExhibit(i, exhibit, exhibitPoses10[i], options)
-      );
-    });
+    if(degree === 'ee' && method === 'group') {
+      const filteredExhibits = [...exhibits.filter(el => eeRooms[room].includes(el.supervisor))];
+
+      filteredExhibits.forEach((exhibit, i) => {
+        exhibitsEl.appendChild(
+          createExhibit(i, exhibit, exhibitPoses10[i], options)
+        );
+      });
+    } else {
+      exhibits.filter(el => el.supervisor === room).forEach((exhibit, i) => {
+        exhibitsEl.appendChild(
+          createExhibit(i, exhibit, exhibitPoses10[i], options)
+        );
+      });
+    }
 
     scene.appendChild(exhibitsEl);
   })
@@ -295,6 +375,12 @@ NAF.schemas.add({
 
 // Called by Networked-Aframe when connected to server
 function onConnect (e) {
-  console.log(e)
   console.log("onConnect", new Date());
+}
+
+// Nav
+if(!AFRAME.utils.device.isMobile()) {
+  const scene = document.querySelector('a-scene');
+  scene.removeAttribute('joystick');
+  document.body.setAttribute('data-content', 'Use W, A, S and D keys to move around \n Click and drag the screen to move camera \n Use mouse or gaze-cursor to interact');
 }
