@@ -1,10 +1,15 @@
+const config = require("./config.json");
 const http = require("http");
 const path = require("path");
 const express = require("express");
 
 process.title = "webxr-expo";
 
-const port = process.env.PORT || 8080;
+const port = _isValidPort(process.argv[2])
+  ? process.argv[2]
+  : config?.port
+  ? config.port
+  : process.env.PORT || 3010;
 
 const app = express();
 app.use(express.static(path.resolve(__dirname, "../public")));
@@ -71,5 +76,10 @@ io.on("connection", (socket) => {
 });
 
 server.listen(port, () => {
-  console.log("listening on http://localhost:" + port);
+  console.log("Listening on http://localhost:" + port);
 });
+
+// Valid port checker
+function _isValidPort(port) {
+  return parseInt(port) >= 1 && parseInt(port) <= 99999;
+}

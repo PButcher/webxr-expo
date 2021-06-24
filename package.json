@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node ./server/index.js"
+    "start": "node ./server/index.js 3010"
   },
   "dependencies": {
     "networked-aframe": "^0.7.1"
