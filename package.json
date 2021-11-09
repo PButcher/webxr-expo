@@ -1,6 +1,6 @@
 {
   "name": "webxr-expo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "WeXR Multi-User Exhibition Environment",
   "main": "index.js",
   "repository": "git@github.com:PButcher/webxr-expo.git",
@@ -9,8 +9,5 @@
   "private": true,
   "scripts": {
     "start": "node ./server/index.js 3010"
-  },
-  "dependencies": {
-    "networked-aframe": "^0.7.1"
   }
 }
