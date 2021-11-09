@@ -16,11 +16,7 @@ The School of Computer Science and Electronic Engineering Final Year Poster Expo
 
 To install and run this project locally you must have [NodeJS](https://nodejs.org) installed.
 
-Clone this repository and run:
-
-```bash
-npm run start
-```
+Clone this repository and run `npm run start` or `yarn start`.
 
 The demo will be running at [https://localhost:3010](https://localhost:3010).
 
